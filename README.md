@@ -21,7 +21,7 @@ Identify cities with high market potential for expansion
 
 All analysis is performed using relational SQL only, without modifying the original data structure.
 
-#Database Schema
+# Database Schema
 
 The analysis is based on four relational tables:
 
