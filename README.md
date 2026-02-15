@@ -1,8 +1,10 @@
-📊 Monday Coffee – SQL Sales & Market Analysis
+# Monday Coffee – SQL Sales & Market Analysis
+
 <img width="1920" height="1080" alt="1" src="https://github.com/user-attachments/assets/78dec412-3249-4a20-9388-2dd8938cf5d9" />
 
 
-📌 Project Overview
+# Project Overview
+
 This project analyzes sales, customer behavior, product performance, and city-level revenue for Monday Coffee, an online coffee retailer operating across multiple Indian cities since 2023.
 
 The objective is to use SQL-based analysis to:
@@ -19,7 +21,7 @@ Identify cities with high market potential for expansion
 
 All analysis is performed using relational SQL only, without modifying the original data structure.
 
-🗂️ Database Schema
+#Database Schema
 
 The analysis is based on four relational tables:
 
@@ -33,7 +35,7 @@ sales – transactional sales data
 
 Tables are connected using primary and foreign keys, enabling multi-level business analysis.
 
-🔍 Business Questions Answered
+# Business Questions Answered
 1. City-wise Revenue Contribution
 
 Which cities generate the highest revenue, and what percentage of total revenue does each city contribute?
@@ -75,7 +77,7 @@ How does the number of actual customers compare with the estimated coffee-consum
 Which cities have customers but relatively low total revenue, indicating underperformance?
 
 
-📈 Key Insights
+# Key Insights
 
 Revenue is highly concentrated in a small number of cities
 
